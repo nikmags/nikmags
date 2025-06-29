@@ -1,6 +1,6 @@
 <h2 align="left">
 
-Hi 👋, my name is Nikhil! I am a dynamic and seasoned cyber intelligence and risk expert in the field of threat intelligence and risk management. I am an iron fist in a velvet glove when it comes to identifying, analyzing, and mitigating cyber threats, contributing to the fortified security posture of both small and large scale organizations like Amazon. My analytical skills, combined with an extensive knowledge of the cybersecurity landscape, allow me to effectively dissect complex data and turn it into actionable insights.
+Hi 👋, my name is Nikhil! I am a dynamic and seasoned fraud, risk, and cyber intelligence expert. I am an iron fist in a velvet glove when it comes to identifying, analyzing, and mitigating cyber fraudsters/threats, contributing to the fortified security posture of both small and large scale organizations. My analytical skills, combined with an extensive knowledge of the  landscape, allow me to effectively dissect complex data and turn it into actionable insights.
 
 I have worked in fast-paced, high-pressure environments, delivering strategic and operational threat intelligence to protect critical information and infrastructure. My professional journey has fortified my understanding of a range of cyber threat actors, techniques, and security controls, as well as the ability to communicate complex security concepts to both technical and non-technical folks.
 
